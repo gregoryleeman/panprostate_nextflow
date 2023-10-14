@@ -1,0 +1,8 @@
+.env/
+work/
+out/
+ref/
+images/
+temp/
+.nextflow/
+.nextflow.log*
